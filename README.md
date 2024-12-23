@@ -45,3 +45,7 @@ yarn dev
 ```
 
 Приложение будет доступно по адресу http://localhost:3000.
+
+### Деплой на Vercel
+
+**[Ссылка на сайт](https://flight-test-app.vercel.app/)**
